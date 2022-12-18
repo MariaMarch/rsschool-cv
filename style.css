@@ -45,7 +45,6 @@ body {
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	color: #1f5545;
-	text-align: right;
   }
   h2 {
 	font-size: 20px;
@@ -72,4 +71,6 @@ body {
   }
 .footer {
 	margin: 50px 0;
+	
   }
+ 
